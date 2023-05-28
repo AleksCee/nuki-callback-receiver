@@ -16,7 +16,7 @@ Infos zur Einrichtung eines Callbacks auf der Bridge findest Du hier: https://de
 ## Wie richte ich es ein?
 
 - Auf einem Webserver mit PHP einen Ordner anlegn und die index.php dort ablegen.  
-  Beispiel: http://nas/nuki/index.php
+  Beispiel: http://192.168.1.77/nuki/index.php die IP ersetzen mit dem des Webservers/NAS-Webstation.
 - Der Webserver benötigt hier Lese-/Schreibrechte
 - eMail-Adresse im Script anpassen.
 - Aktionen im Script anpassen.

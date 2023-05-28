@@ -1,0 +1,6 @@
+{"time":"28.05.2023 - 14:19:47","deviceType":2,"nukiId":xxxxxxx,"mode":2,"state":1,"stateName":"online","batteryCritical":false,"ringactionTimestamp":"2023-05-28T12:19:32+00:00","ringactionState":true,"IFTTT_action":"Ring"}
+{"time":"28.05.2023 - 14:41:53","deviceType":0,"nukiId":xxxxxxx,"mode":2,"state":3,"stateName":"unlocked","batteryCritical":false,"batteryCharging":false,"batteryChargeState":90,"doorsensorState":2,"doorsensorStateName":"door closed"}
+{"time":"28.05.2023 - 14:42:02","deviceType":0,"nukiId":xxxxxxx,"mode":2,"state":3,"stateName":"unlocked","batteryCritical":false,"batteryCharging":false,"batteryChargeState":90,"doorsensorState":4,"doorsensorStateName":"door state unknown"}
+{"time":"28.05.2023 - 14:43:25","deviceType":0,"nukiId":xxxxxxx,"mode":2,"state":3,"stateName":"unlocked","batteryCritical":false,"batteryCharging":false,"batteryChargeState":90,"doorsensorState":2,"doorsensorStateName":"door closed"}
+{"time":"28.05.2023 - 14:48:34","deviceType":0,"nukiId":xxxxxxx,"mode":2,"state":1,"stateName":"locked","batteryCritical":false,"batteryCharging":false,"batteryChargeState":90,"doorsensorState":2,"doorsensorStateName":"door closed"}
+

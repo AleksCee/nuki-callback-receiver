@@ -1,6 +1,6 @@
 # nuki-callback-receiver
 
-Dieses kleine Script ist dazu da, die von der NUKI-Bridge gesendeten callbacks zu empfangen, protokolieren und ggf. andere Aktionen auszuführen.
+Dieses kleine Script ist dazu da, die von der NUKI-Bridge gesendeten Callbacks zu empfangen, protokolieren und ggf. andere Aktionen auszuführen.
 
 Infos zur Einrichtung eines Callbacks auf der Bridge findest Du hier: https://developer.nuki.io/page/nuki-bridge-http-api-1-13/4/#heading--callback
 
